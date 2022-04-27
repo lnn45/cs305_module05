@@ -13,3 +13,7 @@ Web application, using spoonacular API and Target's API creates a generated shop
 A list of technologies used within the project:
 * [Python](https://www.python.org/): Version 3.7
 * [Flask](https://flask.palletsprojects.com/en/2.1.x/)
+
+## License & copyright
+
+(c) Nhat L Nguyen, Northern Arizona University
