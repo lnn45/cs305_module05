@@ -12,3 +12,5 @@ One of the best ways to contribute to this project is by using the application y
 
 ## Specifics
 Be specific as to what your pull request, when committed, does to the code. When following the coding style of the project, maintain indentation and include comments so we have a better idea as to what the code is doing. Lastly, take precaution and run some test cases beforehand to ensure your code is viable and working.
+
+Added lots of epic text.
