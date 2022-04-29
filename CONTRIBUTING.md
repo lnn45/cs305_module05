@@ -8,9 +8,11 @@
 5. Keep track of your request after submission for any suggestions and updates regarding implementation.
 
 ## How you can help
-One of the best ways to contribute to this project is by using the application yourself. Become familiar with the interface and identify any key features you feel are missing or should be implemented. Our members are readily available and open to any questions or concerns you may have regarding Easy Cart.
+One of the best ways to contribute to this project is by using the application yourself. Become familiar with the interface and identify any key features you feel are missing or should be implemented. Our members are readily available and open to any questions or concerns you may have regarding Easy Cart. Feel free to reach out with questions.
 
 ## Specifics
 Be specific as to what your pull request, when committed, does to the code. When following the coding style of the project, maintain indentation and include comments so we have a better idea as to what the code is doing. Lastly, take precaution and run some test cases beforehand to ensure your code is viable and working.
 
 Added lots of epic text.
+
+Added some more text.
