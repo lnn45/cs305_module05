@@ -17,3 +17,6 @@ A list of technologies used within the project:
 ## License & copyright
 
 (c) Nhat L Nguyen, Northern Arizona University
+
+## Schedule
+This list will also create a schedule for you to get the groceries at a certain time or day.
