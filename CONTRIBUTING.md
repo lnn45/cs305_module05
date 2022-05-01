@@ -16,3 +16,5 @@ Be specific as to what your pull request, when committed, does to the code. When
 Added lots of epic text.
 
 Added some more text. Zachariah Derrick - zcd22
+
+Analyzed the text and put my name here - Katie Kline
